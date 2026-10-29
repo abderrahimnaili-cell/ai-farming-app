@@ -1,4 +1,4 @@
-[10/29/2026 1:25 PM] Naili Abderrahim: # 🌱 Smart Farming Assistant - Nabit (نبت)
+ # 🌱 Smart Farming Assistant - Nabit (نبت)
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -50,7 +50,7 @@ The following scenario illustrates the integration of the system's layers from t
 ---
 
 ## ✨ Technical Highlights & Value Proposition
-[10/29/2026 1:25 PM] Naili Abderrahim: *   📱 Cross-Platform Development: Using Flutter allows the application to run on both Android and iOS from a single codebase, reducing development time and cost.
+ *   📱 Cross-Platform Development: Using Flutter allows the application to run on both Android and iOS from a single codebase, reducing development time and cost.
 *   🧠 Embedded AI: The integration of TensorFlow Lite with Flutter enables fast, on-device diagnosis without relying on a central server, reducing cost and increasing speed.
 *   🌍 Multi-language & Accessibility: Support for three languages (Arabic, French, English) and Dark Mode ensures the application is inclusive for all user groups.
 *   🛒 Integrated Ecosystem: The application combines diagnosis, education, and commerce into a single platform, reducing the need for farmers to juggle multiple apps.
@@ -75,7 +75,7 @@ The following scenario illustrates the integration of the system's layers from t
 
 1.  Clone the repository:
    
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+    git clone https://github.com/abderrahimnaili-cell/ai-farming-app.git
     
 2.  Navigate to the project directory:
    
